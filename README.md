@@ -1,5 +1,5 @@
 
-[![.github/workflows/checks.yaml](https://github.com/JeremiahSecrist/Nixos-testing-demo/actions/workflows/checks.yaml/badge.svg)](https://github.com/JeremiahSecrist/Nixos-testing-demo/actions/workflows/checks.yaml)
+[![.github/workflows/checks.yaml](https://github.com/JeremiahSecrist/Nixos-testing-demo/actions/workflows/checks.yaml/badge.svg)](https://github.com/JeremiahSecrist/Nixos-testing-demo/actions/workflows/checks.yaml) [![Publish every Git push to main to FlakeHub](https://github.com/JeremiahSecrist/Nixos-testing-demo/actions/workflows/flakehub-publish-rolling.yml/badge.svg)](https://github.com/JeremiahSecrist/Nixos-testing-demo/actions/workflows/flakehub-publish-rolling.yml)
 
 # intergration testing
 
