@@ -1,3 +1,4 @@
+name: "Nix Flake Checks"
 on: 
   workflow_dispatch:
   push:
