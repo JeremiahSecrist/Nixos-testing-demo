@@ -1,4 +1,6 @@
 
+[![.github/workflows/checks.yaml](https://github.com/JeremiahSecrist/Nixos-testing-demo/actions/workflows/checks.yaml/badge.svg)](https://github.com/JeremiahSecrist/Nixos-testing-demo/actions/workflows/checks.yaml)
+
 # intergration testing
 
 https://nix.dev/tutorials/nixos/integration-testing-using-virtual-machines.html
