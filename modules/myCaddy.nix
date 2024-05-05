@@ -3,7 +3,9 @@
   config,
   lib,
   ...
-}: let
+}: 
+# This is a demo module we can import and validate its effectiveness.
+let
   inherit (lib) mkEnableOption mkIf;
   cfg = config.myCaddy;
 in {
