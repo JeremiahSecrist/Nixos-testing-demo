@@ -1,7 +1,7 @@
 {
-  config,
-  lib,
-  pkgs,
+  # config,
+  # lib,
+  # pkgs,
   ...
 }: {
   # This is (for our demo reasoning) a fully functional nixos config that we can test against.
